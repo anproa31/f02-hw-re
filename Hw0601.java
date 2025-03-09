@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HW01 {
+public class Hw0601 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter array length: ");
