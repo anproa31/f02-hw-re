@@ -1,4 +1,4 @@
-public class HW02 {
+public class Hw0602 {
     public static void main(String[] args) {
         int[] arr = {9, 7, 12, 8, 6, 5};
         bubbleSort(arr); // Sort array in ascending order
