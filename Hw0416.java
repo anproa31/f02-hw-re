@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex16 {
+public class Hw0416 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Nhập số nguyên dương: ");
