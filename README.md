@@ -1,6 +1,6 @@
 # f02-hw-re
 
-# java-introduction-branch
+# java-introduction
 
 # variable_data types_io 
 
