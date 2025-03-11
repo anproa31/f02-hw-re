@@ -4,7 +4,7 @@
 
 # variable_data types_io 
 
-# Operators_Conditions
+# operators_conditions
 
 # loop_function
 
