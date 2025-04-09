@@ -17,7 +17,7 @@ public class Hw0505 {
                 sum += scanner.nextInt();
             }
 
-            try (FileWriter writer = new FileWriter("output.txt")) {
+            try (FileWriter writer = new FileWriter("output1.txt")) {
                 writer.write("Sum of integers: " + sum);
             } catch (IOException e) {
                 e.printStackTrace();

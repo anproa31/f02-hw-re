@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Hw0509 {
-    private static File outputFile = new File("output.txt");
+    private static File outputFile = new File("output1.txt");
 
     public static int[] readFromConsole() {
         Scanner scanner = new Scanner(System.in);
@@ -143,7 +143,7 @@ public class Hw0509 {
 
         try {
             writeToFile(arr, outputFile.getName());
-            System.out.println("Array written to output.txt");
+            System.out.println("Array written to output1.txt");
         } catch (IOException e) {
             System.out.println("Error writing to file: " + e.getMessage());
         }

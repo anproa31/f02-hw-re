@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Hw0202F {
     public static void main(String[] args) {
         String inputFile = "src/input.txt";   // Relative path for input file
-        String outputFile = "src/output.txt"; // Relative path for output file
+        String outputFile = "src/output1.txt"; // Relative path for output file
 
         File inputPath = new File(inputFile);
         File outputPath = new File(outputFile);

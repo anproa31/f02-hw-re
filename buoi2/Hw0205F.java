@@ -9,7 +9,7 @@ public class Hw0205F {
     public static void main(String[] args) throws FileNotFoundException {
 
         String inputFile = "src/input.txt";
-        String outputFile = "src/output.txt";
+        String outputFile = "src/output1.txt";
 
         File inputPath = new File(inputFile);
         File outputPath = new File(outputFile);
