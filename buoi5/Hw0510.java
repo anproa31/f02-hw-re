@@ -17,9 +17,9 @@ public class Hw0510 {
         int[][] array = new int[rows][cols];
         inputArrayFromConsole(array, scanner);
 
-        writeArrayToFile(array, "output.txt");
+        writeArrayToFile(array, "output1.txt");
 
-        int[][] fileArray = readArrayFromFile("output.txt");
+        int[][] fileArray = readArrayFromFile("output1.txt");
 
         System.out.println("Array entered from console:");
         displayArray(array);

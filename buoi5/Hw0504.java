@@ -22,7 +22,7 @@ public class Hw0504 {
             }
         }
 
-        try (FileWriter writer = new FileWriter("output.txt")) {
+        try (FileWriter writer = new FileWriter("output1.txt")) {
             for (int i = 0; i < x; i++) {
                 for (int j = 0; j < y; j++) {
                     for (int k = 0; k < z; k++) {
