@@ -1,0 +1,47 @@
+# Java .gitignore
+
+# Compiled class files
+*.class
+*.war
+*.ear
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse files
+.settings/
+bin/
+*.project
+*.classpath
+
+# NetBeans files
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# VS Code files
+.vscode/
+*.code-workspace
+
+# Maven
+target/
+dependency-reduced-pom.xml
+
+# Gradle
+.gradle/
+build/
+
+# Logs
+*.log
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
